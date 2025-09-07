@@ -56,5 +56,8 @@
 - **GitHub Repo:** [Cyber Security Guard Pro](https://github.com/alaat9080-svg/cyber-security-guard-pro)
 
 ---
+📄 Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+© 2025 Alaa Mahmoud Mohamed
+
 
 
