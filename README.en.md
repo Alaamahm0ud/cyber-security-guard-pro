@@ -2,6 +2,8 @@
 
 Cyber Security Guard Pro  
 An integrated cybersecurity platform to protect individuals, organizations, and government entities against modern digital threats.  
+📄 This file is the English version.  
+🇸🇦 For Arabic version, see [README.md](README.md)
 The project is open source, but the integration idea and architectural design are the unique innovation of Alaa Mahmoud Mohamed.
 <p align="center">
   <img src="WhatsApp%20Image%202025-09-07%20at%2006.37.44_a7576b4b.jpg" alt="Cyber Security Guard Pro Logo" width="300"/>
