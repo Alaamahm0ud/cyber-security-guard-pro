@@ -62,3 +62,6 @@ Contributions are welcome. Please check the CONTRIBUTING.md file.
 - Author: Alaa Mahmoud Mohamed  
 - LinkedIn: [Profile](https://www.linkedin.com/in/alaa-mahmoud-mohamed-918aba378)  
 - GitHub Repo: [Cyber Security Guard Pro](https://github.com/alaat9080-svg/cyber-security-guard-pro)
+
+📄 Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+© 2025 Alaa Mahmoud Mohamed
