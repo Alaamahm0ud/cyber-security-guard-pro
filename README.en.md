@@ -65,3 +65,11 @@ Contributions are welcome. Please check the CONTRIBUTING.md file.
 
 📄 Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 © 2025 Alaa Mahmoud Mohamed
+
+
+---
+
+> 🔍 **Note**: Cyber Guard Pro is a fully open-source layered defense system.  
+> Cyber Security Guard Pro is a proprietary integrated platform with educational code access.  
+> Both projects reflect ethical AI and bilingual transparency, but differ in ownership and reuse rights.
+
